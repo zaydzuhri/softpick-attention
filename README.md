@@ -7,3 +7,6 @@ In this repository are implementations of attention with the softpick function. 
 
 For the training code that we used in the paper, see:
 https://github.com/zaydzuhri/flame/tree/softpick-attention
+
+All trained models and checkpoints are on my huggingface:
+https://huggingface.co/zaydzuhri
